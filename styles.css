@@ -18,7 +18,7 @@ body{
 #img{
   margin-left:35%;
 }
-.price{
+.price-block{
 	text-align:center;
 	border:1px solid rgb(46,204,113) ;
 	background:rgb(46,204,113);
@@ -27,4 +27,7 @@ body{
 .book{
 	margin-bottom:20px;
 	width:100%;
+}
+.author{
+	color:#777777;
 }
