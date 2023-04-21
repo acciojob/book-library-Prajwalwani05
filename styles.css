@@ -1,23 +1,30 @@
-/*  your css code here. If applicable */
 body{
 	background:#f8f8f8;
 }
-.empty{
+#heading{
+	text-align:center;
+	border:1px none white;
+	background: #f8f8f8;
+	padding:1%;
+	margin-bottom:20px;
+}
+.book-library{
 	background:white;
 }
-img{
-	width:200px;
-	height:300px;
-	padding:2%;
-	margin-left:auto;
-	margin-right:auto;
-	display:block;
+.book{
+	background:#f8f8f8;
+	padding:1%;
 }
-.p{
-	line-height:0;
+#img{
+  margin-left:35%;
 }
-.green{
+.price{
 	text-align:center;
+	border:1px solid green ;
 	background:green;
 	color:white;
+}
+.book{
+	margin-bottom:20px;
+	width:100%;
 }
